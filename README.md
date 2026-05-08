@@ -1,7 +1,7 @@
 # CustomImageClassifier
 
 <p align="center">
-  <img src="preview_casual.png" width="900">
+  <img src="preview_casua.png" width="900">
 </p>
 
 <h1 align="center">CustomImageClassifier</h1>
