@@ -1,13 +1,20 @@
 # CustomImageClassifier
-CustomImageClassifier lets you classify images in bulk using resnet18 backbone model.
 
-Instructions for the libraries are at the top inside the main.py file (the code itself).
-Note: More images = More accuracy.
+CustomImageClassifier is a bulk image classification tool that uses ResNet18 backbone.
 
-Casually:
+Its designed to make training custom image classifiers straightforward.
+
+## Setup
+All required libraries and setup instructions are explained at the top of `main.py`.
+> Note: More training images = better accuracy.
+
+## Screenshots
+
+### Casual Preview
 ![Preview1](preview_casual.png)
 
-In Use:
+### In Use
 ![Preview2](preview_inuse.png)
 
-This is licensed by GPLv3, dont skid.
+Licensed under GPLv3.
+Dont skid ^^!
